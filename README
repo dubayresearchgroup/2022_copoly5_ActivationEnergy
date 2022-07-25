@@ -1,6 +1,7 @@
-Main text figures and SI figure S3-S8 from the publication (doi goes here) are generated from the Jupyter
-Notebook 'Plotting_Results.ipynb'. Additional SI figures and calculations are available in the SIdata
-subdirectory.
+Main text figures and SI figure S3-S8 from the J. Phys. Chem. B publication "Emergent Sequence Biasing in 
+Step-growth Copolymerization: Influence of Non-bonded Interactions and Comonomer Reactivities" (doi goes here) 
+are generated from the JupyterNotebook 'Plotting_Results.ipynb'. Additional SI figures and calculations are 
+available in the SIdata subdirectory.
 
 The subdirectory "alljarfile" contains pickle files with calculated variable of interest for each simulation
 performed. These files are referenced in 'Plotting_Results.ipynb' for the creation of figures.
@@ -10,5 +11,5 @@ the "alljarfile" directory, as well as an example simulation script and associat
 set of simulation data are not included due to size constraints, but are available from 
 corresponding authors upon request.
 
-The subdirectory 'LAMMPSsrc' contains modified source files for LAMMPS version 7Aug19, which are required to run
-the simulations performed in this work.
+The subdirectory 'LAMMPSsrc' contains modified source files for LAMMPS version 7Aug19, which are required
+to run the simulations performed in this work.
