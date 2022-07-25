@@ -1,0 +1,9 @@
+The Jupyter Notebook 'Arrhenius_Prefactor_Simulation_Data_Fit.ipynb' contains the calculation of the
+Arrhenius pre-exponential factor from the observed degree of polymerization in simulations as discussed
+in Section 3.1 of the publication.
+
+The Jupyter Notebook "A(eps)_Fitting.ipynb" file makes use of values calculated separately in "Arrhenius_Prefactor_Simulation_Data_Fit.ipynb",
+but runs as a stand-alone without outside inputs.
+
+Code to generate Figure S2 is in the file "A(eps)_Fitting.ipynb"
+

@@ -1,0 +1,9 @@
+Code to generate Figure S1 is in Jupyter Notebook file "copoly5_activation_energy.ipynb"
+
+The Notebook file accesses .json files stored in the "/Flex" and "/Stiff" subdirectories
+containing activation energy measurements from simulations with flexible and stiff chains 
+respectively.
+
+Activation energy calculations are performed via the "barrcalc_v5.py" python script and results
+in the .json files discussed above. The python script utilizes trajectory and bond files from simulations,
+which are not included due to space constraints, but are available from corresponding authors on request.

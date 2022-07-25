@@ -1,0 +1,10 @@
+{
+  "name": "220121_copoly_0.15epsAA_0.15epsAB_0.15epsBB_6.0rbAA_6.0rbBB_6.0rbAB_flex-1",   "inputdata": "mono7200.data",
+  "size": 50,
+  "Nmono": 7200,
+  "epsAA": 0.15,   "epsAB": 0.15,   "epsBB": 0.15,   "damp": 0.1,   "angleA": 180,   "angleB": 180,   "angleKA": 5,
+  "angleKB": 5,
+  "shiftA": 0,
+  "shiftB": 0,
+  "Temp": 3,   "epshard": 4,   "activationAA": 6,   "activationBB": 6,   "activationAB": 6,   "seed": 12345
+}

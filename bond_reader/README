@@ -1,0 +1,13 @@
+The files "chainanalysis.py" and "polymerAB.py" are python3 code which contain the BondReader class
+which are used to calculate quantities of interest from simulation output, including chain and block 
+length distributions, degree of polymerization, reaction extent, dispersity, etc. 
+
+The BondReader class operates on files output from simulation, and is used to produce the '.pickle' files 
+stored in the '/alljarfile/' directory which is used to generate figures. 
+
+An example simulation directory "220121_copoly_0.15epsAA_0.15epsAB_0.15epsBB_6.0rbAA_6.0rbBB_6.0rbAB_flex-1" is included,
+which contains an example LAMMPS script and output files used by the BondReader class. An example of this usage is available
+in the Jupyter Notebook 'ReactionBarrier_Analysis.ipynb'.
+
+The full set of simulations used in this work are not included due to 
+space constraints, but are available from corresponding authors on request.

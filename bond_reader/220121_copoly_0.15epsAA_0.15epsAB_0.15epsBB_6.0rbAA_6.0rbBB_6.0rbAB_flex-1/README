@@ -1,0 +1,9 @@
+An example simulation directory. Directory name indicates date simulation was run, the relevant LJ epsilon values, 
+the values of the additional soft repulsions between bonding particles, the chain stiffness, and the simulation trial number.
+All output files from the simulation follow this naming convention at the beginning of the filename.
+
+The file 'run.lmp' is the LAMMPS input script for the simulation, and submit.sbatch is a SLURM submission script for simulations.
+The initial data file 'mono7200.data' contains the initial system of monomers prior to equilibration. Such an initial data file can
+be created via the 'mono_prep.py' python script.
+
+All simulations were run in LAMMPS version 7Aug19. Some additional "in-house" LAMMPS src files were used, and are included in the 'LAMMPSsrc' directory.
