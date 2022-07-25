@@ -1,7 +1,7 @@
 Main text figures and SI figure S3-S8 from the J. Phys. Chem. B publication "Emergent Sequence Biasing in 
-Step-growth Copolymerization: Influence of Non-bonded Interactions and Comonomer Reactivities" (doi goes here) 
-are generated from the JupyterNotebook 'Plotting_Results.ipynb'. Additional SI figures and calculations are 
-available in the SIdata subdirectory.
+Step-growth Copolymerization: Influence of Non-bonded Interactions and Comonomer Reactivities" are generated 
+from the JupyterNotebook 'Plotting_Results.ipynb'. Additional SI figures and calculations are available in 
+the SIdata subdirectory.
 
 The subdirectory "alljarfile" contains pickle files with calculated variable of interest for each simulation
 performed. These files are referenced in 'Plotting_Results.ipynb' for the creation of figures.
